@@ -1,0 +1,15 @@
+Estructuracion Front End:
+
+* Existen vistas, donde se requiere que los input de tipo SELECT sean dinamicos con busquedas y otras opciones
+	- la liberia bootstrap-select-1.12.2 se encarga de este tipo de opciones.
+
+* Para organizar las tabs de forma vertical y alineadas a la izquierda.
+	- la libreria bootstrap-vertical-tabs se encarga de gestionar esta visualizacion.
+
+
+
+
+/****************
+*** Erick Suy ***
+***   2017    ***
+*****************/
